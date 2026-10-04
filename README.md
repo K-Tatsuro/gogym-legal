@@ -3,6 +3,7 @@
 GoGym（`com.gogym.workout`）の公開法務文書リポジトリ。
 
 - Privacy Policy: https://k-tatsuro.github.io/gogym-legal/privacy/
+- Account deletion: https://k-tatsuro.github.io/gogym-legal/delete/
 - Source of draft (product docs): kept in `workout_tracker/docs/legal/` (private product repo)
 
 Company Memory remains private and does not host this content.
